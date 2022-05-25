@@ -1,7 +1,7 @@
 # The Command line 
 
-take the steps
-
+take the steps , and i setup my computer
+![setup](terminal/terminal-18.png)
 ![1](terminal/terminal-1.png)
 ![2](terminal/terminal-2.png)
 ![3](terminal/terminal-3.png)

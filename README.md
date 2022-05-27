@@ -1,5 +1,10 @@
-# reading-notes
+# reading-notes:
+This page can keep track of my observations and questions from the reading assignments throughout my course.
 
-## [sql practice](sql.md)
+## 1) [sql practice](sql.md)
 
-##[terminal](terminal.md)
+## 2) [terminal](terminal.md)
+
+## 3) [markdown](markdown.md)
+
+## 4) [command line](commandline.md)

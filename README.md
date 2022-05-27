@@ -8,3 +8,5 @@ This page can keep track of my observations and questions from the reading assig
 ## 3) [markdown](markdown.md)
 
 ## 4) [command line](commandline.md)
+
+## 5) [Learning Git Branching](gitBranching.md)

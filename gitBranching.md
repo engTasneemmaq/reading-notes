@@ -15,8 +15,9 @@
 ![](gitgame/14.png)
 ![](gitgame/18.png)
 ![](gitgame/15.png)
+![](gitgame/17.png)
 ![](gitgame/16.png)
 ![](gitgame/git-2.png)
 ![](gitgame/git-3.png)
 ![](gitgame/git-4.png)
-![](gitgame/git-8.png)
+

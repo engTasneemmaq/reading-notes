@@ -79,3 +79,6 @@ cp Copy a file or directory.
 mv Move a file or directory
 
 rm Delete a file.
+
+
+[Back to the main page  ✔️](README.md)

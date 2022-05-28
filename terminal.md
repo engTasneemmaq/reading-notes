@@ -1,4 +1,4 @@
-# The Command line  👨🏻‍💻
+# 👀 The Command line  👨🏻‍💻
 
 take the steps , and i setup my computer<br> 👩🏽‍🔧
 
@@ -20,3 +20,6 @@ take the steps , and i setup my computer<br> 👩🏽‍🔧
 ![15](terminal/terminal-15.png)
 ![16](terminal/terminal-16.png)
 ![17](terminal/terminal-17.png)
+
+
+[Back to the main page  ✔️](README.md)

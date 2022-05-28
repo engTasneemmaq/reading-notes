@@ -51,7 +51,7 @@
  🖇 “Test-driven development” 🖇
 refers to a style of programming.
 
- **8three activities are tightly interwoven:<br> 
+ **three activities are tightly interwoven:<br> 
  a.coding<br>
  b. testing (in the form of writing unit tests) <br>
 c. design (in the form of refactoring).<br>
@@ -63,7 +63,7 @@ c. design (in the form of refactoring).<br>
 2.Run the test, which should fail because the program lacks that feature.<br>
 3.Write “just enough” code, the simplest possible, to make the test pass.<br>
 4.“Refactor” the code until it conforms to the simplicity criteria.<br>
-5.epeat, “accumulating” unit tests over time.<br>
+5.repeat, “accumulating” unit tests over time.<br>
 <br>
 
 ## 🔎 CI/CD  🔍

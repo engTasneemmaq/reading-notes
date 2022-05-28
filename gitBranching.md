@@ -1,4 +1,4 @@
-## Learning Git Branching
+## Learning Git Branching ✔️ ⏩ ⏩
 
 ![](gitgame/1.png)
 ![](gitgame/2.png)

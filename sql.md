@@ -1,10 +1,10 @@
-# Advance Software Development 
+# 🌺 Advance Software Development 🌺  💻
 
 # reading-notes
 
-*Auther: Tasneem Ali Maqableh
+***Auther: Tasneem Ali Maqableh***
 
-*About:
+*About:🔎 
 SQL Practice:
 This is to keep track of the observations and questions
 from my reading assignments throughout the course.
@@ -26,7 +26,7 @@ WHERE director ="%JOHN%"
 - use Operator 
 
 
-*** Screen shot:
+*** Screen shot: 🖼
 ![exercise-1 1](exercise/exercise-1.png)
 ![exercise-1 2](exercise/exercise-1-2.png)
 ![exercise-1 3](exercise/exercise-1-3.png)

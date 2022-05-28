@@ -1,4 +1,4 @@
-## command line :
+## command line : ✔️ ⏩ ⏩
 
 command line is a text based interface to the system ,we can type a commands ,and the feedback will be text.
 
@@ -17,7 +17,7 @@ ls : called a command ,every command must seperated with space.
 Most of the commands have output.
 
 
-*Opening a Terminal
+*Opening a Terminal ➾
 
 -Mac :Applications -> Utilities, key combination 'command + space'
 
@@ -26,7 +26,7 @@ Most of the commands have output.
 -Windows:start->Terminal
 
 
-*The Shell, Bash
+*The Shell, Bash 🔎
 
 Shell :is a part of OS ,that use to define how the terminal look and behave after running th command.
 
@@ -66,7 +66,7 @@ Absolute paths :a location in relation to the root directory.
 Relative paths a location in relation to where we currently are in the system
 
 
-**File Manipulation
+**File Manipulation 🔎
 
 mkdir Make Directory.
 

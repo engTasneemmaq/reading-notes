@@ -1,6 +1,7 @@
-# The Command line 
+# The Command line  👨🏻‍💻
 
-take the steps , and i setup my computer
+take the steps , and i setup my computer<br> 👩🏽‍🔧
+
 ![setup](terminal/terminal-18.png)
 ![1](terminal/terminal-1.png)
 ![2](terminal/terminal-2.png)

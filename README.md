@@ -13,6 +13,8 @@ This page can keep track of my observations and questions from the reading assig
 
 ## 6) [Node js & Express](Express.md) 📁
 
+## 7) [Express REST API](/ExpressRestApi.md)
+
 
 
 👩‍💻 **Tasneem Maqableh** 👩‍💻 

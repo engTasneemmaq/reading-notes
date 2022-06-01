@@ -15,7 +15,9 @@ This page can keep track of my observations and questions from the reading assig
 
 ## 7) [Express REST API](/ExpressRestApi.md) 📁
 
+## 8) [Linked List](/linkedList.md) 📁
 
+<br>
 
 
 👩‍💻 **Tasneem Maqableh** 👩‍💻 

@@ -1,23 +1,19 @@
 #  👩🏻‍💻 reading-notes: 👩🏻‍💻  
 This page can keep track of my observations and questions from the reading assignments throughout my course.
 
-## 1) [sql practice](sql.md) 📁
+| **Reading**      | **Link**|
+| -----------      | ----------- |
+|     SQL          |  [sql practice](sql.md) 📁   |
+|    Terminal      |  [terminal](terminal.md) 📁  |
+|    MarkDown      |  [markdown](markdown.md) 📁  |
+|   Command line   |  [command line](commandline.md) 📁|
+| Learning Git Branching |[Learning Git Branching](gitBranching.md) 📁|
+| Node js & Express| [Node js & Express](Express.md) 📁|
+| Express REST API | [Express REST API](/ExpressRestApi.md) 📁|
+| Linked List      | [Linked List](/linkedList.md) 📁 |
 
-## 2) [terminal](terminal.md) 📁
 
-## 3) [markdown](markdown.md) 📁
 
-## 4) [command line](commandline.md) 📁
-
-## 5) [Learning Git Branching](gitBranching.md) 📁
-
-## 6) [Node js & Express](Express.md) 📁
-
-## 7) [Express REST API](/ExpressRestApi.md) 📁
-
-## 8) [Linked List](/linkedList.md) 📁
-
-<br>
 
 
 👩‍💻 **Tasneem Maqableh** 👩‍💻 

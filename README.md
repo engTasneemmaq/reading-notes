@@ -11,6 +11,7 @@ This page can keep track of my observations and questions from the reading assig
 | Node js & Express| [Node js & Express](Express.md) 📁|
 | Express REST API | [Express REST API](/ExpressRestApi.md) 📁|
 | Linked List      | [Linked List](/linkedList.md) 📁 |
+| SQL vs NoSQL     | [SQL vs NoSQL](./sqlVsNosql.md)  |
 
 
 

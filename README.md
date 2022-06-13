@@ -14,6 +14,8 @@ This page can keep track of my observations and questions from the reading assig
 | SQL vs NoSQL     | [SQL vs NoSQL](./sqlVsNosql.md)📁 |
 |Sequelize-Normalization | [Sequelize](./%20Sequelize.md) 📁 |
 | Authentication   | [Authentication](./Authentication.md) 📁|
+|       JWT        | [JSON Web Token](./jwt.md) 📁|
+
 
 
 

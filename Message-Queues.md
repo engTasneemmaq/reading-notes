@@ -97,4 +97,6 @@ const socket2 = io("/admin", { forceNew: true }); // no multiplexing, two distin
 3. [namespace](https://socket.io/docs/v4/namespaces/)
 
 
+
+
 [Back to the main page  ✔️](README.md)

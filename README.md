@@ -21,6 +21,8 @@ This page can keep track of my observations and questions from the reading assig
 |Event-Driven Programming in Node.js| [Event-Driven](./Event-Driven.md)📁|
 | Socket.io | [Socket.io](./Socket.io.md) 📁|
 | Message Queues | [Message Queues](./Message-Queues.md) 📁|
+| Event Driven Architecture | [Event Driven](./EventDrivenArchitecture.md) 📁|
+
 
 
 

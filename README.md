@@ -22,6 +22,8 @@ This page can keep track of my observations and questions from the reading assig
 | Socket.io | [Socket.io](./Socket.io.md) 📁|
 | Message Queues | [Message Queues](./Message-Queues.md) 📁|
 | Event Driven Architecture | [Event Driven](./EventDrivenArchitecture.md) 📁|
+|      Trees     | [Trees](./Trees.md) 📁|
+
 
 
 

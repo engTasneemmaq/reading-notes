@@ -23,6 +23,8 @@ This page can keep track of my observations and questions from the reading assig
 | Message Queues | [Message Queues](./Message-Queues.md) 📁|
 | Event Driven Architecture | [Event Driven](./EventDrivenArchitecture.md) 📁|
 |      Trees     | [Trees](./Trees.md) 📁|
+|      AWS     | [AWS](./aws.md) 📁|
+
 
 
 

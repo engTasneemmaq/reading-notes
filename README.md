@@ -29,6 +29,8 @@ This page can keep track of my observations and questions from the reading assig
 | AWS: API, Dynamo and Lambda    | [ AWS-API](./AWS-API.md) 📁|
 | Component Based UI    | [ Component Based UI](./ComponentBasedUI.md) 📁|
 | Using The State Hook   | [ Using The State Hook ](./StateHook.md) 📁|
+| Component Lifecycle / useEffect Hook   | [ Use Effect Hook ](./useEffectHook.md) 📁|
+
 
 
 

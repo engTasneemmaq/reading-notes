@@ -30,6 +30,8 @@ This page can keep track of my observations and questions from the reading assig
 | Component Based UI    | [ Component Based UI](./ComponentBasedUI.md) 📁|
 | Using The State Hook   | [ Using The State Hook ](./StateHook.md) 📁|
 | Component Lifecycle / useEffect Hook   | [ Use Effect Hook ](./useEffectHook.md) 📁|
+|  useReducer Hook   | [ useReducer Hook  ](./useReducerHook.md) 📁|
+
 
 
 

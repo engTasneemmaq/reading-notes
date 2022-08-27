@@ -28,6 +28,9 @@ the signature also certifies that only the party holding the private key is the 
 ## Document the following Vocabulary Terms 👀 📝
 
 * role based access control: 
+
+![img](./assest/role.png)
+
 - (RBAC) is a method of restricting network access based on the roles of individual 
 users within an enterprise.
 - RBAC lets employees have access rights only to the information they need to do their 
@@ -38,3 +41,9 @@ Cookies are text files with small pieces of data — like a username and passwor
 that are used to identify your computer as you use a computer network.
 
 - Specific cookies known as HTTP cookies are used to identify specific users and improve your web browsing experience.
+
+
+
+<br>
+
+[Back to the main page  ✔️](README.md)

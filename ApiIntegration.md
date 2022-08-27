@@ -1,7 +1,6 @@
 ## API Integration 👋 👩🏻‍💻
 
 
-![img]() 
 
 ## Review, Research, and Discussion
 

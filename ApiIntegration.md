@@ -110,6 +110,6 @@ An Express/Node.js based server using a custom “authentication” module that 
 
 1. [Review API Server Build](https://codefellows.github.io/code-401-javascript-guide/curriculum/apps-and-libraries/api-server/)
 
-2. [Review Auth Server Build]()
+2. [Review Auth Server Build](https://codefellows.github.io/code-401-javascript-guide/curriculum/apps-and-libraries/auth-server/)
 
 [Back to the main page  ✔️](README.md)

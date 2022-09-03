@@ -61,5 +61,6 @@ A Cyclic graph is a graph that has cycles. A cycle is defined as a path of a pos
 - Airline Traffic
 - Netflix uses graphs for suggestions of products
 
+<br>
 
 [Back to the main page  ✔️](README.md)

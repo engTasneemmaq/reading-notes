@@ -47,7 +47,7 @@ This page can keep track of my observations and questions from the reading assig
 | API Integration | [ API Integration](./ApiIntegration.md) 📁 |
 |     Redux     | [ Redux](./Redux.md) 📁 |
 |     Graphs      | [ graph](./Graph.md) 📁 |
-
+| Redux - Asynchronous Actions | [Redux - Asynchronous Actions](./Redux-AsynchronousActions.md)
 
 
 

@@ -1,7 +1,7 @@
 ## React Native👋 👩🏻‍💻
 Create a native, installable mobile application
 
-![react native](./assest/native.jpgi)
+![react native](./assest/native.jpg)
 
 ## Learning Objectives
 - Students will be able to>>
